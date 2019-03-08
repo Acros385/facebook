@@ -1,0 +1,29 @@
+.haut{
+	background-color: #3B5998;
+	width: 100%;
+	height: 100%;
+
+
+}
+
+.adresse{
+	display: inline-block;
+	display: flex;
+}
+
+.form-group {
+	padding: 1%;
+}
+
+.btn{
+	background-color: #4267E1;
+	width: 20%;
+	height: 20%;
+	margin-top: 5%;
+	 
+}
+
+.img-fluid {
+	width: 25%;
+	height: auto;
+}
